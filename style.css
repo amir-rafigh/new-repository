@@ -10,3 +10,14 @@ p{
     background-color: aqua;    
     color: purple;
 }
+
+@media(max-width:768px){
+    h1{
+        color: yellow;
+        font-size: 5rem;
+        font-style: italic;
+        margin: 5rem;
+        
+    }
+
+}
